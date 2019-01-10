@@ -3,8 +3,8 @@ An Alexa Skill that provides suggestions to social media platforms that are used
 --
 1. Suggest new subreddits
 - Sample phrases
-- > Alexa, open the bot
-- > Alexa, ask the bot to show me a new subreddit
-- > Alexa, ask the bot to show me a new subreddit with over 1000000 subscribers
+> Alexa, open the bot
+> Alexa, ask the bot to show me a new subreddit
+> Alexa, ask the bot to show me a new subreddit with over 1000000 subscribers
 --
 Work in progress
