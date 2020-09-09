@@ -1,4 +1,4 @@
-// Daniel Chen
+// Daniel Chen 2020
 
 const Alexa = require("ask-sdk");
 const https = require("https");
